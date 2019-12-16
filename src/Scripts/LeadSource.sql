@@ -1,0 +1,1 @@
+SELECT * FROM options where list_id in (1, 17)

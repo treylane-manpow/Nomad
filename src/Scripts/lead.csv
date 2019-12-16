@@ -1,0 +1,66 @@
+﻿id,list_id,parent_id,name (HL),editable,param,date_created,date_updated,NAME (SF)
+25,1,NULL,MoneyBug Absentee Postcard,0,property-creator,10/25/2013 15:40,2/20/2014 15:43,Office Direct Mail
+41,1,NULL,MoneyBug Atlanta Email,0,property-creator,6/6/2014 16:07,6/20/2014 11:45,Email Marketing
+1521,1,1338,MoneyBug Austin Seliger,1,NULL,5/5/2016 9:54,5/5/2016 9:54,Purchased Lead
+2552,1,NULL,Moneybug Constant Contact Austin,1,NULL,5/22/2017 10:51,5/22/2017 10:51,Email Marketing
+51,1,NULL,Moneybug FB SEM San Antonio,1,NULL,1/30/2015 14:20,1/30/2015 14:20,Moneybug Website
+26,1,NULL,MoneyBug High Equity Postcard,0,property-creator,10/25/2013 15:43,2/20/2014 15:43,Office Direct Mail
+43,1,NULL,MoneyBug Los Angeles Email,0,property-creator,6/11/2014 17:42,6/20/2014 11:46,Email Marketing
+1330,1,NULL,Moneybug Mailchimp Austin,1,NULL,11/19/2015 22:37,11/19/2015 22:37,Email Marketing
+40,1,NULL,Moneybug MailChimp Dallas,0,property-creator,5/29/2014 15:47,5/29/2014 16:23,Email Marketing
+1329,1,NULL,MoneyBug MailChimp Fort Worth,0,property-creator,10/12/2015 14:56,10/12/2015 14:57,Email Marketing
+1663,1,NULL,MoneyBug Mailchimp Houston,1,NULL,7/11/2016 9:28,7/11/2016 9:28,Email Marketing
+1355,1,NULL,MoneyBug MailChimp Philadelphia,1,NULL,1/27/2016 12:02,1/27/2016 12:02,Email Marketing
+1844,1,NULL,MoneyBug MailChimp San Antonio,1,NULL,10/19/2016 14:28,10/19/2016 14:30,Email Marketing
+3453,1,NULL,MoneyBug MDR,3,NULL,2/22/2018 18:10,6/26/2018 10:11,MoneyBug MDR
+42,1,NULL,Moneybug Philadelphia Email,0,property-creator,6/9/2014 10:53,6/20/2014 11:46,Email Marketing
+2253,1,NULL,MoneyBug Philadelphia THEO Leads,1,NULL,2/23/2017 12:08,2/23/2017 12:08,Purchased Lead
+27,1,NULL,MoneyBug Probate Letters,0,property-creator,10/25/2013 15:43,2/20/2014 15:43,Office Direct Mail
+52,1,NULL,MoneyBug Radio San Antonio,0,NULL,2/5/2015 11:56,4/7/2015 10:35,Other
+47,1,NULL,MoneyBug Referral,1,NULL,10/28/2014 7:40,10/28/2014 7:40,Referral
+38,1,NULL,Moneybug SEM Atlanta,0,property-creator,5/27/2014 12:01,5/29/2014 16:21,Moneybug Website
+50,1,NULL,MoneyBug SEM Austin,0,NULL,1/26/2015 16:49,8/18/2015 11:40,Moneybug Website
+36,1,NULL,Moneybug SEM Dallas,0,property-creator,5/27/2014 12:01,5/29/2014 16:21,Moneybug Website
+48,1,NULL,Moneybug SEM Fort Worth,0,NULL,12/1/2014 13:02,8/18/2015 11:41,Moneybug Website
+37,1,NULL,Moneybug SEM Houston,0,property-creator,5/27/2014 12:01,5/29/2014 16:21,Moneybug Website
+49,1,NULL,MoneyBug SEM Los Angeles,0,NULL,12/10/2014 16:30,8/18/2015 11:41,Moneybug Website
+1323,1,NULL,Moneybug SEM Philadelphia,0,NULL,6/2/2015 17:48,8/18/2015 11:41,Moneybug Website
+39,1,NULL,Moneybug SEM San Antonio,0,property-creator,5/27/2014 12:01,5/29/2014 16:22,Moneybug Website
+35,1,NULL,MoneyBug Site-Adword Calls,0,property-creator,4/7/2014 14:52,10/29/2014 8:52,Moneybug Website
+34,1,NULL,MoneyBug Site-MailChimp,0,property-creator,4/7/2014 14:52,5/29/2014 16:22,Email Marketing
+33,1,NULL,MoneyBug Site-Randy,0,property-creator,4/7/2014 14:51,5/29/2014 16:22,Moneybug Website
+31,1,NULL,Moneybug Stickers,0,property-creator,3/19/2014 11:12,3/19/2014 11:12,Other
+32,1,NULL,Moneybug Unknown,0,property-creator,3/19/2014 11:13,3/19/2014 11:13,Other
+28,1,NULL,MoneyBug Website,0,property-creator,10/25/2013 16:35,2/20/2014 15:43,Moneybug Website
+29,1,NULL,MoneyBug Yellow Letter,0,property-creator,2/7/2014 11:49,2/20/2014 15:43,Office Direct Mail
+2989,1,NULL,MoneyBug Yellow Letter-Austin,1,NULL,9/5/2017 8:33,9/5/2017 8:33,Office Direct Mail
+11,1,NULL,Manual MLS Research,1,NULL,11/10/2010 4:26,11/10/2010 4:26,MLS Research
+9,1,NULL,MLS Agent List,1,NULL,11/10/2010 4:26,11/10/2010 4:26,MLS Research
+19,1,NULL,Auction,1,NULL,11/10/2010 4:26,12/21/2012 18:04,Other
+46,1,NULL,BiggerPockets,1,NULL,8/25/2014 14:33,8/25/2014 14:33,REI Website
+44,1,NULL,Bush Buy,1,NULL,7/9/2014 16:45,7/9/2014 16:45,Bush Buy
+1336,17,NULL,Craigslist,0,NULL,12/15/2015 6:47,12/15/2015 6:47,REI Online Marketplace
+8,1,NULL,Deal Scalper,1,NULL,11/10/2010 4:26,7/9/2015 14:10,Deal Scalper
+1337,17,NULL,E-mail Blast,0,NULL,12/15/2015 6:47,12/15/2015 6:47,Email Marketing
+1326,1,NULL,Facebook,1,NULL,9/13/2015 22:52,9/13/2015 22:52,Social Media
+12,1,NULL,Flipper Contact,1,NULL,11/10/2010 4:26,11/10/2010 4:26,Referral
+23,1,NULL,FSBO,1,NULL,3/2/2012 8:44,3/2/2012 8:44,Other
+1331,17,NULL,Glassdoor,0,NULL,12/15/2015 6:47,12/15/2015 6:47,Social Media
+45,1,NULL,Homevestors Franchise,1,NULL,8/8/2014 15:04,8/8/2014 15:04,Referral
+24,1,NULL,ICC LEAD,0,NULL,8/7/2013 10:13,8/12/2013 12:21,Purchased Lead
+20,1,NULL,Import,1,NULL,1/27/2011 12:20,1/27/2011 12:20,Other
+1364,17,NULL,Manually Entered,1,NULL,3/3/2016 10:17,3/3/2016 10:17,Other
+15,1,NULL,Misc Online Posting,1,NULL,11/10/2010 4:26,11/10/2010 4:26,REI Online Marketplace
+14,1,NULL,Newspaper Ad,1,NULL,11/10/2010 4:26,11/10/2010 4:26,Other
+21,1,NULL,Other,1,NULL,2/11/2011 1:59,2/11/2011 1:59,Other
+1338,17,NULL,Other (Explain where),0,NULL,12/15/2015 6:47,12/15/2015 6:47,Other
+10,1,NULL,Paid Affiliate web lead,1,NULL,11/10/2010 4:26,11/10/2010 4:26,Purchased Lead
+1334,17,NULL,Referral (Employee Name Referred by),0,NULL,12/15/2015 6:47,12/15/2015 6:47,Referral
+16,1,NULL,Road Sign,1,NULL,11/10/2010 4:26,11/10/2010 4:26,Other
+13,1,NULL,Sticker,1,NULL,11/10/2010 4:26,11/10/2010 4:26,Other
+30,1,NULL,Yellow Pages,1,NULL,2/13/2014 13:45,2/13/2014 13:45,Other
+1328,1,NULL,Zillow FISBO,1,NULL,10/1/2015 15:08,10/1/2015 15:08,REI Online Marketplace
+3668,1,NULL,HomeGo Agent Microsite,0,NULL,7/3/2018 15:56,7/3/2018 15:58,
+3661,1,NULL,HomeGo FLS List,0,NULL,6/29/2018 15:19,9/21/2018 14:21,
+3667,1,NULL,HomeGo Office Microsite,0,NULL,7/3/2018 15:56,7/3/2018 15:58,
+4575,1,NULL,HomeGo Partner 4% min holdback,3,NULL,7/18/2019 14:20,7/18/2019 14:21,
